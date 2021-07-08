@@ -302,3 +302,6 @@ public class MainTest {
 - https://github.com/deepjavalibrary/djl/issues/901
 - https://www.programmersought.com/article/65958865963/
 - https://pytorch.org/docs/1.8.1/jit.html
+
+## TODO
+* 图片压缩然后在还原标记
